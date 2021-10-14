@@ -13,6 +13,12 @@ APP_ENV=development
 JWT_SECRET=dfsodhfjksh35453d45jk4534f5hs45d3l45fhadkhfadhu345234
 ```
 
+### Deployed APP
+```https://rocky-island-43692.herokuapp.com```
+
+may not be available at all times 
+
+
 ## Create User
 ```[POST] /api/user ```
 ### Body
