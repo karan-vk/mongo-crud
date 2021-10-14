@@ -1,6 +1,6 @@
 module github.com/karan-vk/mongo-crud
 
-go 1.17.2
+go 1.17
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
